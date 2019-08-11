@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aedc8d2483d59d8ae7aee3b1ff8a3fda",
+    "revision": "0ad0445682df84bf8bf049a0d9f3c6a4",
     "url": "/react_phone-catalog/index.html"
   },
   {
-    "revision": "33f4839d682ddcbd3e13",
+    "revision": "ea49ecd958d22ae9f704",
     "url": "/react_phone-catalog/static/css/main.e9e94630.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_phone-catalog/static/js/2.36654c22.chunk.js"
   },
   {
-    "revision": "33f4839d682ddcbd3e13",
-    "url": "/react_phone-catalog/static/js/main.23a455e1.chunk.js"
+    "revision": "ea49ecd958d22ae9f704",
+    "url": "/react_phone-catalog/static/js/main.14db41be.chunk.js"
   },
   {
     "revision": "9b3e1d68b9cc1dd9a925",
